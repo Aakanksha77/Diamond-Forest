@@ -21,7 +21,6 @@
 /build
 
 /src/app/Home/components/HeroSection.js
-/src/app/Home/components/Navbar.js
 /src/app/Home/components/ProductCard.js
 # misc
 .DS_Store
